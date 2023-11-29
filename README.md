@@ -4,7 +4,7 @@ Whack those mischievous moles in the classic Whac-A-Mol Game! ⚒️👾🕹️
 
 ## Play the Game
 
-[Start Whacking](https://aryan0-1maurya.github.io/whac-a-mol/) 🕹️
+[Start Whacking](https://aryan0-1maurya.github.io/whac-a-mol-game/) 🕹️
 
 ## About the Project
 
